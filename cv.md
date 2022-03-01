@@ -37,3 +37,30 @@ function showMeYourFriends(...friends) {
 showMeYourFriends('Misha','Eugen', 'Viktor', 'Maria');
 ```
 
+# Education
+
+* **Brest State Technical University, Brest**
+    * Civil engineer
+* **Self-education**
+    * Udemy. Front-end, JS, React.
+    * Udemy. HTML5, CSS3.
+
+
+# Experience
+
+* Project for my wife with recipes. [MENU](https://whityha.github.io/menu/)
+
+
+# Languages
+
+- Russian
+- Belarussian
+- English А2
+
+
+
+
+
+<br>
+<br>
+<br>
