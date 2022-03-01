@@ -48,7 +48,7 @@ showMeYourFriends('Misha','Eugen', 'Viktor', 'Maria');
 
 # Experience
 
-* Project for my wife with recipes. [MENU](https://whityha.github.io/menu/)
+* Project for my wife with recipes. [MENU-deploy](https://whityha.github.io/menu/) [MENU-code](https://github.com/whityha/menu)
 
 
 # Languages
